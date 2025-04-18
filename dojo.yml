@@ -1,0 +1,6 @@
+id: demo 2
+name: Demo Grep 2
+type: more
+image: pwncollege/challenge-simple
+modules:
+ - id: mod-name
